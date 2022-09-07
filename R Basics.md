@@ -30,7 +30,7 @@ paste(sat , "is less than" , jup)
 
 // paste() concatenate sat & jup
 
-$ Data Types <- Double
+# Data Types <- Double
 
 x <- 2.7
 
@@ -215,8 +215,7 @@ print ("Sorry! Jupiter")
 
 // Sorry! Jupiter
 
-   Data Structure
-
+ 
 # Repeat Elements
 
 cars <- rep( c ( 'audi' , 'bmw' , 'ferrari' ) , each = 2 )
